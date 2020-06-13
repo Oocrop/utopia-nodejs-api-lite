@@ -1,4 +1,5 @@
 # utopia-nodejs-api-lite
+Basic API wrapper for [Utopia](https://u.is)
 
 Usage: 
 ```javascript
